@@ -1,6 +1,9 @@
-🤗hello there
+🤗Hello there!
+
 🥰I'm a fish on the internet.
+
 🤯From my username you can figure that.
+
 😿I can't speak more now because i'm a 🐟🫧.
 
 

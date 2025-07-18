@@ -1,7 +1,6 @@
 ## Hey,welcome to my page!👋
 
 😋I'm a student majoring in CS at WHU.<br>
-😿Frankly speaking I'm just a newbie to CS's world.<br>
 🤗Hope you can find something that interests you here!<br>
 😉Hope you a nice day!<br>
 
@@ -9,7 +8,7 @@
 
 🤯I'm looking for a internship recently and will be looking it for a long time in the future.
 I'm interested in rust backend development,oprating system engineer,game making and game engine...
-If you are intresested in my backgroud,email me by ywlwl@qq.com.
+If you are interested in my backgroud,email me by ywlwl@qq.com.
 Thanks a lot!
 
 ### 💻Languages

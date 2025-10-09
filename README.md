@@ -4,16 +4,9 @@
 🤗Hope you can find something that interests you here!<br>
 😉Hope you a nice day!<br>
 
-## Internship
-
-🤯I'm looking for a internship recently and will be looking it for a long time in the future.
-I'm interested in rust backend development,oprating system engineer,game making and game engine...
-If you are interested in my backgroud,email me by ywlwl@qq.com.
-Thanks a lot!
-
 ### 💻Languages
 
-![tools](https://skillicons.dev/icons?i=c,cs,cpp,js,html,css,py,rust)  
+![tools](https://skillicons.dev/icons?i=c,cpp,py,rust,go)  
 
 ### 🛠️What am I using
 

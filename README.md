@@ -4,6 +4,10 @@
 🤗Hope you can find something that interests you here!<br>
 😉Hope you a nice day!<br>
 
+## 📖Personal Blog
+
+[渚汐の小窝](https://yinwei-yu.github.io/)
+
 ### 💻Languages
 
 ![tools](https://skillicons.dev/icons?i=c,cpp,py,rust,go)  
